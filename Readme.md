@@ -10,6 +10,8 @@ The contract leverages Solidity and Ethereum's decentralized ledger to ensure fa
 
 ## Contract Address
 0x16850f2bA126Ee80a39b7d2aFDb4339CD260B627
+![image](https://github.com/user-attachments/assets/5eae0869-d644-46fb-8f92-ef7719ac92f7)
+
 
 ## Project Vision
 The vision of TriviaLeaderboard is to provide an engaging, secure, and transparent trivia game experience where participants are rewarded based on their performance. By using blockchain technology, the game ensures fairness, as all actions are recorded on the blockchain and cannot be tampered with. Over time, the platform aims to expand to more questions, different game modes, and a broader community of players.
